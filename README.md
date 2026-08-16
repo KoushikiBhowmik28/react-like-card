@@ -1,25 +1,33 @@
-React Like Technology Cards
+📇 Contact Card App
 
-A simple React project that displays technology cards with Like/Unlike functionality.
+A simple and responsive Contact Card App built with a clean and user-friendly design. 💻✨
 
-Features
-Technology cards for React, JavaScript, Python, Node.js, MongoDB, and Git & GitHub
-Like/Unlike button for each card
-Responsive design
-Built using React components and useState
-Technologies Used
-React
-JavaScript
-Vite
-CSS
-Installation
-npm install
-npm run dev
+✨ Features
 
-Then open the local URL shown by Vite, usually:
+- 👤 Display contact information
+- 📧 Email and phone details
+- 🔗 Social media links
+- 📱 Responsive design
+- 🎨 Simple and attractive UI
 
-http://localhost:5173
+🛠️ Technologies
 
-Purpose
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
 
-This project was created to practice React components, props, state, event handling, and conditional rendering.
+🚀 How to Run
+
+1. 📥 Clone the repository.
+2. 📂 Open the project folder.
+3. 🌐 Open "index.html" in your browser.
+
+🔗 GitHub
+
+"Contact Card App" (https://github.com/KoushikiBhowmik28/contact-card-app)
+
+👩‍💻 Author
+
+Koushiki Bhowmik ❤️
+
+⭐ If you like this project, please give it a star!
